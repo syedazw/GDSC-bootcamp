@@ -1,1 +1,1 @@
-# GDSC-bootcamp
+# GDSC-UIT-bootcamp
